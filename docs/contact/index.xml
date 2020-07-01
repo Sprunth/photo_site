@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on Roxo | Creative Design Agency</title>
-    <link>https://sprunth.dev/contact/</link>
+    <link>https://sprunth.dev/photo_site/contact/</link>
     <description>Recent content in Contact on Roxo | Creative Design Agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 23 Dec 2019 20:17:01 +0600</lastBuildDate>
     
-	<atom:link href="https://sprunth.dev/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sprunth.dev/photo_site/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
