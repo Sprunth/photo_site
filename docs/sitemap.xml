@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sprunth.dev/photo_site/blog/design-inspiration-the-best-projects-from-december/</loc>
-    <lastmod>2019-12-24T13:45:06+06:00</lastmod>
+    <loc>https://sprunth.dev/photo_site/</loc>
+    <lastmod>2020-07-05T16:48:28+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/</loc>
+    <lastmod>2020-07-05T16:48:28+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sprunth.dev/photo_site/blog/design-inspiration-the-best-projects-from-december/</loc>
     <lastmod>2019-12-24T13:45:06+06:00</lastmod>
   </url>
   
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/kio-tape-2/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/kio-tape-2/</loc>
     <lastmod>2019-12-23T20:56:42+06:00</lastmod>
   </url>
   
@@ -48,27 +53,22 @@
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/</loc>
-    <lastmod>2019-12-23T16:48:28+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/use-less-brand/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/use-less-brand/</loc>
     <lastmod>2019-12-23T15:58:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/osen-clock/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/osen-clock/</loc>
     <lastmod>2019-12-23T15:56:43+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/seamless-watch/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/seamless-watch/</loc>
     <lastmod>2019-12-23T15:55:44+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sprunth.dev/photo_site/portfolio/kio-tape/</loc>
+    <loc>https://sprunth.dev/photo_site/galleries/kio-tape/</loc>
     <lastmod>2019-12-23T15:44:46+06:00</lastmod>
   </url>
   
